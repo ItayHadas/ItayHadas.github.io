@@ -233,6 +233,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sass-converter
   - jemoji
+  - kramdown-parser-gfm
 
 # Sitemap settings
 defaults:
