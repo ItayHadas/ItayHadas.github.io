@@ -309,6 +309,7 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-regex-replace
   jekyll-remote-theme
+  jekyll-sass-converter
   jekyll-scholar
   jekyll-sitemap
   jekyll-tabs

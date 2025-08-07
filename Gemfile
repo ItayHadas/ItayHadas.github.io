@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem "jekyll-remote-theme"
+    gem "jekyll-sass-converter"
     gem 'classifier-reborn'  # used for content categorization during the build
 end
 

@@ -230,6 +230,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jekyll-remote-theme
+  - jekyll-sass-converter
   - jemoji
 
 # Sitemap settings
