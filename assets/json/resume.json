@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Itay Hadas",
-    "label": "Scientist",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "itay.hadas@gmail.com",
+    "phone": "",
+    "url": "https://ItayHadas.github.io/",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "",
       "countryCode": "US",
-      "region": "California"
+      "region": ""
     },
     "profiles": [
       {
@@ -24,91 +24,71 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Deliberate.ai  &  Salma Health",
+      "position": "Scientific & Technological Consultant",
+      "startDate": "2024-11",
+      "highlights": "Developed multimodal AI diagnostic tools for mental health, optimizing feature selection and design while maintaining high model performance.","Designed and strategized evidence-based mental health evaluation products leveraging NLP, audio, facial expressions, and behavioral analytics."
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Interventional Psychiatry Center, UC San Diego Health. San Diego, California, US",
+      "position": "Research Scientist",
+      "startDate": "2023-10",
+      "endDate": "2024-11",
+      "highlights": "Awarded with a Milken Institute Baszucki Brain Research Grant to develop a brain-stimulation intervention targeting a brain-circuitry to treat bipolar disorder and developing response biomarkers. Led this clinical trial and published the results recently.","Awarded with Young Investigator NARSAD Grant to develop of a machine learning depression clinical grade biomarker integrating fMRI, DTI and TMS-EEG.","Served as co-investigator in a DARPA-funded trial and developed a personalized treatment-targeting for depression in traumatic brain injury using multimodal neurophysiological data analysis.","Served as co-investigator in a NIH R61/R33 clinical trial for developing an EEG pipeline to personalize theta-burst brain stimulation frequency in depressed patients.","Collaborated with healthcare, academia, and industry partners to validate prototypes and advance clinical applications for FDA approved protocols and devices prototypes.","Supervised and mentored students, scientists, and clinical professionals, fostering skill development, research excellence, and cross-disciplinary collaboration."
+    },
+    {
+      "name": "Interventional Psychiatry Center, UC San Diego Health. San Diego, California, US",
+      "position": "Project Scientist",
+      "startDate": "2020-09",
+      "endDate": "2023-10",
+      "highlights": "Served as co-investigator in a Wellcome Leap-funded international, multi-site initiative, developing specialized machine learning models for integration into a generalized multi-modal diagnostic framework for anhedonic depression.","Established and managed a state-of-the-art clinical research infrastructure for brain stimulation clinical trials, integrating FDA-approved and prototype neuromodulatory technologies with advanced neurophysiological, behavioral and imaging techniques.","Designed automated, cloud-based pipelines for preprocessing, brain-stimulation targeting and data QA to support incoming patients processing and research.","Led IRB regulatory submissions and ensured full FDA and HIPAA compliance for clinical research operations.","Setup electronic health records systems (EHR) to support data-rich clinical trials."
+    },
+    {
+      "name": "Temerty Centre, The Centre for Addiction and Mental Health (CAMH). Toronto, Ontario, Canada.",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2017-09",
+      "endDate": "2020-09",
+      "highlights": "Developed and validated automated signal processing pipelines for EEG and TMS-EEG biomarkers in clinical trials.","Built QA, data storage, and time-series analysis pipelines to support personalized treatment approaches.","Conducted large-scale analysis (3,800+ patients) of the STAR*D EHR dataset, identifying predictors of suicidality and depression remission using R.","Presented posters and gave talks at international conferences about brain stimulation and neuropsychiatric studies."
+    },
+    {
+      "name": "Ben Gurion University of the Negev. Beer Sheva, Israel",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2017-03",
+      "endDate": "2017-09",
+      "highlights": "Developed neurophysiological mechanistic and machine-learning biomarkers.","Involved in Deep-rTMS clinical trials for FDA indications, such as: ADHD, Substance Dependence (nicotine and alcohol), Depression, OCD."
     }
-  ],
+  ]
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Ben Gurion University of the Negev",
+      "location": "Beer Sheva, Israel",
+      "url": "https://www.bgu.ac.il/en/",
+      "area": "Biomedical Sciences",
+      "studyType": "PhD, MSc, B.Sc"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Young Investigator Grant",
+      "date": "2022",
+      "awarder": "Brain and Behavior Research Foundation",
+      "summary": "Limbic network response biomarkers for accelerated intermittent theta burst stimulation. The aim of this study is to develop biomarkers for brain stimulation trial for treatment resistant depression. These neurophysiological biomarker models are validated in association with additional cutting-edge imaging technics and multimodal features"
     }
   ],
-  "certificates": [
+  "Professional Affiliations and Services": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Journal of Clinical Neurophysiology, Editorial Board Member",
+      "date": "2023 - Now",
+      "url": "https://www.sciencedirect.com/journal/clinical-neurophysiology",
+      "summary": "Reviewed and helped facilitate over 90 manuscripts, dealing with brain electrophysiology, neuromodulation, behavioral tasks and computational analysis methods.",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Brain Stimulation Journal, Social Media Editor",
+      "date": "2022 - Now",
+      "url": "https://www.brainstimjrnl.com",
+      "summary": "Curate weekly paper summaries and promoted young investigators' publications on Twitter/X, growing engagement and followers. Created LinkedIn page highlighting investigators' publications and conference activities, reaching 2,200 followers to date.",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -134,24 +114,9 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hebrew",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +128,16 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Neuromodulatory Mechanism",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Neuomodulation",
+        "TMS",
+        "Brain Circuits",
+        "Psychiatric Neurophysiological Markers",
+        "Brain Imaging",
+        "Multimodal Markers"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
