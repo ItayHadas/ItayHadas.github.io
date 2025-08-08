@@ -1,8 +1,8 @@
 github_users:
-  - UCSD-IPP
-  - mne-tools
-  - brainlife
-  - Wellcome-Leap-MCPsych
+  # - UCSD-IPP
+  # - mne-tools
+  # - brainlife
+  # - Wellcome-Leap-MCPsych
 
 repo_description_lines_max: 2
 

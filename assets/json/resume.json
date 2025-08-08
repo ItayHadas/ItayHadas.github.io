@@ -27,37 +27,58 @@
       "name": "Deliberate.ai  &  Salma Health",
       "position": "Scientific & Technological Consultant",
       "startDate": "2024-11",
-      "highlights": "Developed multimodal AI diagnostic tools for mental health, optimizing feature selection and design while maintaining high model performance.","Designed and strategized evidence-based mental health evaluation products leveraging NLP, audio, facial expressions, and behavioral analytics."
+      "highlights": [
+        "Developed multimodal AI diagnostic tools for mental health, optimizing feature selection and design while maintaining high model performance.",
+        "Designed and strategized evidence-based mental health evaluation products leveraging NLP, audio, facial expressions, and behavioral analytics."
+      ]
     },
     {
       "name": "Interventional Psychiatry Center, UC San Diego Health. San Diego, California, US",
       "position": "Research Scientist",
       "startDate": "2023-10",
       "endDate": "2024-11",
-      "highlights": "Awarded with a Milken Institute Baszucki Brain Research Grant to develop a brain-stimulation intervention targeting a brain-circuitry to treat bipolar disorder and developing response biomarkers. Led this clinical trial and published the results recently.","Awarded with Young Investigator NARSAD Grant to develop of a machine learning depression clinical grade biomarker integrating fMRI, DTI and TMS-EEG.","Served as co-investigator in a DARPA-funded trial and developed a personalized treatment-targeting for depression in traumatic brain injury using multimodal neurophysiological data analysis.","Served as co-investigator in a NIH R61/R33 clinical trial for developing an EEG pipeline to personalize theta-burst brain stimulation frequency in depressed patients.","Collaborated with healthcare, academia, and industry partners to validate prototypes and advance clinical applications for FDA approved protocols and devices prototypes.","Supervised and mentored students, scientists, and clinical professionals, fostering skill development, research excellence, and cross-disciplinary collaboration."
+      "highlights": [
+        "Awarded with a Milken Institute Baszucki Brain Research Grant to develop a brain-stimulation intervention targeting a brain-circuitry to treat bipolar disorder and developing response biomarkers. Led this clinical trial and published the results recently.",
+        "Awarded with Young Investigator NARSAD Grant to develop of a machine learning depression clinical grade biomarker integrating fMRI, DTI and TMS-EEG.","Served as co-investigator in a DARPA-funded trial and developed a personalized treatment-targeting for depression in traumatic brain injury using multimodal neurophysiological data analysis.","Served as co-investigator in a NIH R61/R33 clinical trial for developing an EEG pipeline to personalize theta-burst brain stimulation frequency in depressed patients.","Collaborated with healthcare, academia, and industry partners to validate prototypes and advance clinical applications for FDA approved protocols and devices prototypes.",
+        "Supervised and mentored students, scientists, and clinical professionals, fostering skill development, research excellence, and cross-disciplinary collaboration."
+      ]
     },
     {
       "name": "Interventional Psychiatry Center, UC San Diego Health. San Diego, California, US",
       "position": "Project Scientist",
       "startDate": "2020-09",
       "endDate": "2023-10",
-      "highlights": "Served as co-investigator in a Wellcome Leap-funded international, multi-site initiative, developing specialized machine learning models for integration into a generalized multi-modal diagnostic framework for anhedonic depression.","Established and managed a state-of-the-art clinical research infrastructure for brain stimulation clinical trials, integrating FDA-approved and prototype neuromodulatory technologies with advanced neurophysiological, behavioral and imaging techniques.","Designed automated, cloud-based pipelines for preprocessing, brain-stimulation targeting and data QA to support incoming patients processing and research.","Led IRB regulatory submissions and ensured full FDA and HIPAA compliance for clinical research operations.","Setup electronic health records systems (EHR) to support data-rich clinical trials."
+      "highlights": [
+        "Served as co-investigator in a Wellcome Leap-funded international, multi-site initiative, developing specialized machine learning models for integration into a generalized multi-modal diagnostic framework for anhedonic depression.",
+        "Established and managed a state-of-the-art clinical research infrastructure for brain stimulation clinical trials, integrating FDA-approved and prototype neuromodulatory technologies with advanced neurophysiological, behavioral and imaging techniques.",
+        "Designed automated, cloud-based pipelines for preprocessing, brain-stimulation targeting and data QA to support incoming patients processing and research.",
+        "Led IRB regulatory submissions and ensured full FDA and HIPAA compliance for clinical research operations.",
+        "Setup electronic health records systems (EHR) to support data-rich clinical trials."
+      ]
     },
     {
       "name": "Temerty Centre, The Centre for Addiction and Mental Health (CAMH). Toronto, Ontario, Canada.",
       "position": "Postdoctoral Researcher",
       "startDate": "2017-09",
       "endDate": "2020-09",
-      "highlights": "Developed and validated automated signal processing pipelines for EEG and TMS-EEG biomarkers in clinical trials.","Built QA, data storage, and time-series analysis pipelines to support personalized treatment approaches.","Conducted large-scale analysis (3,800+ patients) of the STAR*D EHR dataset, identifying predictors of suicidality and depression remission using R.","Presented posters and gave talks at international conferences about brain stimulation and neuropsychiatric studies."
+      "highlights": [
+        "Developed and validated automated signal processing pipelines for EEG and TMS-EEG biomarkers in clinical trials.",
+        "Built QA, data storage, and time-series analysis pipelines to support personalized treatment approaches.",
+        "Conducted large-scale analysis (3,800+ patients) of the STAR*D EHR dataset, identifying predictors of suicidality and depression remission using R.",
+        "Presented posters and gave talks at international conferences about brain stimulation and neuropsychiatric studies."
+      ]
     },
     {
       "name": "Ben Gurion University of the Negev. Beer Sheva, Israel",
       "position": "Postdoctoral Researcher",
       "startDate": "2017-03",
       "endDate": "2017-09",
-      "highlights": "Developed neurophysiological mechanistic and machine-learning biomarkers.","Involved in Deep-rTMS clinical trials for FDA indications, such as: ADHD, Substance Dependence (nicotine and alcohol), Depression, OCD."
+      "highlights": [
+        "Developed neurophysiological mechanistic and machine-learning biomarkers.",
+        "Involved in Deep-rTMS clinical trials for FDA indications, such as: ADHD, Substance Dependence (nicotine and alcohol), Depression, OCD."
+      ]
     }
-  ]
+  ],
   "education": [
     {
       "institution": "Ben Gurion University of the Negev",
@@ -75,19 +96,21 @@
       "summary": "Limbic network response biomarkers for accelerated intermittent theta burst stimulation. The aim of this study is to develop biomarkers for brain stimulation trial for treatment resistant depression. These neurophysiological biomarker models are validated in association with additional cutting-edge imaging technics and multimodal features"
     }
   ],
-  "Professional Affiliations and Services": [
+  "volunteer": [
     {
-      "name": "Journal of Clinical Neurophysiology, Editorial Board Member",
-      "date": "2023 - Now",
+      "organization": "Journal of Clinical Neurophysiology",
+      "position": "Editorial Board Member",
+      "startDate": "2023",
       "url": "https://www.sciencedirect.com/journal/clinical-neurophysiology",
       "summary": "Reviewed and helped facilitate over 90 manuscripts, dealing with brain electrophysiology, neuromodulation, behavioral tasks and computational analysis methods.",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Brain Stimulation Journal, Social Media Editor",
-      "date": "2022 - Now",
+      "organization": "Brain Stimulation Journal",
+      "position": "Social Media Editor",
+      "startDate": "2022",
       "url": "https://www.brainstimjrnl.com",
-      "summary": "Curate weekly paper summaries and promoted young investigators' publications on Twitter/X, growing engagement and followers. Created LinkedIn page highlighting investigators' publications and conference activities, reaching 2,200 followers to date.",
+      "summary": "Curate weekly paper summaries to promote young investigators' publications on Twitter/X, growing engagement and followers. Created LinkedIn page highlighting investigators' publications and conference activities, reaching 2,200 followers to date.",
       "icon": "fa-solid fa-tag"
     }
   ],
