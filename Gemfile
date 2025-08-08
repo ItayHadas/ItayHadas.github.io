@@ -22,7 +22,6 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'jekyll-remote-theme'
     gem 'jekyll-sass-converter'
     gem 'kramdown-parser-gfm'
     gem 'classifier-reborn'  # used for content categorization during the build
