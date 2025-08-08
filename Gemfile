@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4'
+gem 'jekyll', '~> 4.1'
 
 
 # Core plugins that directly affect site building
