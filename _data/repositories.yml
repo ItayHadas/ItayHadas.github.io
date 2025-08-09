@@ -16,4 +16,5 @@ github_repos:
   - hcmlab/discover
   - google-ai-edge/mediapipe
   - torcheeg/torcheeg
+  - mne-tools/mne-python
 
