@@ -8,4 +8,12 @@ repo_description_lines_max: 2
 
 github_repos:
   - alshedivat/al-folio
+  - UCSD-IPP/TAP
+  - fooof-tools/fooof
+  - chriscline/AARATEPPipeline
+  - aestrivex/bctpy
+  - ComaRecoveryLab/STREAM-4D
+  - hcmlab/discover
+  - google-ai-edge/mediapipe
+  - torcheeg/torcheeg
 
