@@ -25,7 +25,10 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+  # write about unconstructed previosuly qualitative transformed to be quantitative behavioral measurments such as FAU, voice, NLP, locomation/wearable that are relevant for psychiatry and can be used as the next generation of diagnostic nad treatment selecetion markers in psychiatry.
 ---
 
 My research has been focused on the brain mechanisms underlying neuropsychiatric disorders, with the goal of developing innovative and more effective diagnostics and therapeutics to improve patients' quality of life. A significant part of my work is dedicated to identifying neurophysiological depression biomarkers capable of predicting clinical outcomes and supporting decision-making in neurostimulation trials. I have been deeply involved in research utilizing a range of neuromodulatory technologies, including repetitive transcranial magnetic stimulation (rTMS), magnetic seizure therapy (MST), and electroconvulsive therapy (ECT) to treat conditions such as depression, OCD, ADHD, and bipolar disorder. My expertise in neurophysiology and brain imaging analysis has been instrumental in refining brain stimulation targeting and optimizing brain stimulation efficacy.
 I have served as principal and co-investigator on multimillion-dollar clinical trials, with roles in clinical trial management, regulatory compliance (FDA, IRB), training, and mentorship. By bridging computational neuroscience with translational research, I aim to advance precision neuropsychiatric interventions and contribute to next-generation diagnostics through a deeper understanding of brain and behavior.
+
