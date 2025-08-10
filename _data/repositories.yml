@@ -9,6 +9,7 @@ repo_description_lines_max: 2
 github_repos:
   - alshedivat/al-folio
   - UCSD-IPP/TAP
+  - UCSD-IPP/ECT-MST  
   - fooof-tools/fooof
   - chriscline/AARATEPPipeline
   - aestrivex/bctpy
