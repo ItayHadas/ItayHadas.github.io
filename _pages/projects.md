@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research Projects.
 nav: true
 nav_order: 3
-display_categories: []
+display_categories: [Research]
 horizontal: false
 ---
 

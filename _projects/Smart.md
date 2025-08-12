@@ -4,7 +4,7 @@ title: Ph.D work
 description: Neurobehavioral effects of continuous exposure to attention-grabbing stimuli in humans and rats
 img: assets/img/smartphone_proj.png
 importance: 1
-category: science
+category: Research
 related_publications: hadar_answering_2017, hadas_exposure_2016
 toc: true
 ---
