@@ -44,11 +44,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "projects-ph-d-work",
+        },{id: "projects-left-dorsolateral-prefrontal-cortex-dlpfc-subgenual-anterior-cingulate-cortex-sgacc",
+          title: 'Left-Dorsolateral Prefrontal Cortex (DLPFC) - Subgenual anterior Cingulate Cortex (SgACC)',
+          description: "Treatment resistant depression brain target for Transcranial magnetic stimulation (TMS)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/L-DLPFC%20-%20SGC/";
+            },},{id: "projects-ph-d-work",
           title: 'Ph.D work',
           description: "Attention Deficit Neurobiology and Digital Media Influences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Smart/";
+            },},{id: "projects-ph-d-work",
+          title: 'Ph.D work',
+          description: "Attention Deficit Neurobiology and Digital Media Influences",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/oscilatory/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
