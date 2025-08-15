@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "projects-ph-d-work",
           title: 'Ph.D work',
-          description: "ADHD Neurobiology and Digital Media Influences",
+          description: "Attention Deficit Neurobiology and Digital Media Influences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Smart/";
             },},{
