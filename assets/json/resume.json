@@ -90,10 +90,48 @@
   ],
   "awards": [
     {
-      "title": "Young Investigator Grant",
+      "title": "Young Investigator Grant - Limbic network response biomarkers for accelerated intermittent theta burst stimulation",
       "date": "2022",
       "awarder": "Brain and Behavior Research Foundation",
+      "summary": "The aim of this study is to develop biomarkers for brain stimulation trial for treatment resistant depression. These neurophysiological biomarker models are validated in association with additional cutting-edge imaging technics and multimodal features"
+    },
+    {
+      "title": "Bipolar efficacy biomarkers for accelerated intermittent theta burst rTMS trial",
+      "date": "2022",
+      "awarder": "Milken Institute and Baszucki Brain Research Fund Grant",
       "summary": "Limbic network response biomarkers for accelerated intermittent theta burst stimulation. The aim of this study is to develop biomarkers for brain stimulation trial for treatment resistant depression. These neurophysiological biomarker models are validated in association with additional cutting-edge imaging technics and multimodal features"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GRANT, NARSAD: Bilateral Theta Burst Stimulation for Suicidality in Treatment-Resistant Depression",
+      "startDate": "2022",
+      "endDate": "2024",
+      "description": "Co-Investigator on this study that aims to assess the efficacy, and corroborate neurophysiological biomarkers for bilateral theta burst stimulation treatment for suicidality in treatment-resistant depression."
+    },
+    {
+      "name": "GRANT, National Institute of Health: Confirmatory Safety and Efficacy Trial of Magnetic Seizure Therapy for Depression (CREST-MST)",
+      "startDate": "2018",
+      "endDate": "2022",
+      "description": "Co-Investigator on this study that aims to evaluate magnetic seizure therapy efficacy in relation to electroconvulsive therapy."
+    },
+    {
+      "name": "GRANT, Wellcome Leap: Personalized Therapeutic Neuromodulation for Anhedonic Depression",
+      "startDate": "2022",
+      "endDate": "2024",
+      "description": "Co-Investigator on this multi-center collaborative effort for constructing neurophysiological / imaging / facial expression / motion diagnostic machine learning models for anhedonic depression in accelerated intermittent theta burst stimulation."
+    },
+    {
+      "name": "GRANT, Department of Defense: Combined Neuromodulation and Cognitive Training for Post-mTBI Depression",
+      "startDate": "2023",
+      "endDate": "2026",
+      "description": "Co-Investigator on Double-blinded RCT comparing PACT+iTBS to PACT+sham iTBS for Veterans, Service Members, and civilians with depression in the chronic phase of mTBI."
+    },
+    {
+      "name": "GRANT, National Institute of Health: Frequency and E-field Enhancement of ITBS for Depression (FREED)",
+      "startDate": "2023",
+      "endDate": "2025",
+      "description": "Co-Investigator on this study that aims to enhance intermittent theta burst stimulation treatment for depression using electric field brain modeling and personalized theta/gamma frequencies."
     }
   ],
   "volunteer": [

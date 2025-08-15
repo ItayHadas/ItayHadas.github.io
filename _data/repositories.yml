@@ -7,6 +7,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - ItayHadas/DLPFC_SCD_SCS_analysis
   - alshedivat/al-folio
   - UCSD-IPP/TAP
   - UCSD-IPP/ECT-MST  
