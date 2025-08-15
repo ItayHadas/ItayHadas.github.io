@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "projects-ph-d-work",
           title: 'Ph.D work',
-          description: "Neurobehavioral effects of continuous exposure to attention-grabbing stimuli in humans and rats",
+          description: "ADHD Neurobiology and Digital Media Influences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Smart/";
             },},{
