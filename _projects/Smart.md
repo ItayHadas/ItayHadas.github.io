@@ -5,7 +5,7 @@ description: Attention Deficit Neurobiology and Digital Media Influences
 img: assets/img/smartphone_proj.png
 importance: 1
 category: Research
-related_publications: hadas_right_2021, hadar_answering_2017, hadas_exposure_2016, hadas_attentional_impairments_2016
+related_publications: hadas_right_2021,hadar_answering_2017,hadas_exposure_2016,hadas_attentional_impairments_2016
 toc: true
 ---
 
