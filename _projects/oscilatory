@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Ph.D work
-description: Attention Deficit Neurobiology and Digital Media Influences
-img: assets/img/smartphone_proj.png
+title: Oscilatory and Aperiodic Markers
+description: Oscilatory and aperiodic markers of neuromodulatory treatment for depression
+img: assets/img/specparams.png
 importance: 1
 category: Research
-related_publications: hadas_right_2021,hadar_answering_2017,hadas_exposure_2016,hadas_attentional_impairments_2016
+related_publications: smith_magnetic_2023-1, 
 toc: true
 ---
 
