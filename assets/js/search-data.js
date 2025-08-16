@@ -54,9 +54,9 @@ ninja.data = [{
           description: "Attention Deficit Neurobiology and Digital Media Influences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Smart/";
-            },},{id: "projects-ph-d-work",
-          title: 'Ph.D work',
-          description: "Attention Deficit Neurobiology and Digital Media Influences",
+            },},{id: "projects-oscilatory-and-aperiodic-markers",
+          title: 'Oscilatory and Aperiodic Markers',
+          description: "Oscilatory and aperiodic markers of neuromodulatory treatment for depression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oscilatory/";
             },},{
