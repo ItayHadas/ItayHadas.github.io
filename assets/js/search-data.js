@@ -49,8 +49,13 @@ ninja.data = [{
           description: "Left-Dorsolateral Prefrontal Cortex (DLPFC) - Subgenual anterior Cingulate Cortex (SGC) circuit as a treatment resistant depression response marker in transcranial magnetic stimulation treatment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/L-DLPFC%20-%20SGC/";
-            },},{id: "projects-ph-d-work",
-          title: 'Ph.D work',
+            },},{id: "projects-circuit-targeted-bipolar",
+          title: 'Circuit-Targeted Bipolar',
+          description: "Left-Dorsolateral Prefrontal Cortex (DLPFC) - Subgenual anterior Cingulate Cortex (SGC) circuit as a treatment resistant depression response marker in transcranial magnetic stimulation treatment",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Milken_bipolar_aitbs/";
+            },},{id: "projects-ph-d-work-attention-deficit",
+          title: 'Ph.D work - Attention Deficit',
           description: "Attention Deficit Neurobiology and Digital Media Influences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Smart/";
