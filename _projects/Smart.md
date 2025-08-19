@@ -3,7 +3,7 @@ layout: page
 title: Ph.D work - Attention Deficit
 description: Attention Deficit Neurobiology and Digital Media Influences
 img: assets/img/smartphone_proj.png
-importance: 3
+importance: 4
 category: Research
 related_publications: hadas_right_2021,hadar_answering_2017,hadas_exposure_2016,hadas_attentional_impairments_2016
 toc: true

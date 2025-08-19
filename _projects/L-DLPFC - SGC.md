@@ -3,7 +3,7 @@ layout: page
 title: L-DLPFC - SGC Marker of Depression
 description: Left-Dorsolateral Prefrontal Cortex (DLPFC) - Subgenual anterior Cingulate Cortex (SGC) circuit as a treatment resistant depression response marker in transcranial magnetic stimulation treatment  
 img: assets/img/DLPFC-SGC.png
-importance: 1
+importance: 2
 category: Research
 related_publications: hadas_association_2019, hadas_hyperactivation_2019, hadas_subgenual_2020, Sun_TMSEEG-FMRI_abs_2025
 toc: true
