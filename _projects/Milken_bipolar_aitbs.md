@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Circuit-Targeted TMS for Bipolar 
-description: Accelerated Intermittent Theta-Burst Stimulation (aiTBS) for Bipolar Depression: A Personalized Brain Circuit-Targeted Intervention  
+description: Accelerated Intermittent Theta-Burst Stimulation (aiTBS) for Bipolar Depression - A Personalized Brain Circuit-Targeted Intervention  
 img: assets/img/E-field.png
-importance: 3
+importance: 2
 category: Research
 related_publications: appelbaum_accelerated_2025
 toc: true
