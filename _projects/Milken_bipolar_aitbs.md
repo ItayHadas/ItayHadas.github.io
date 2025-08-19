@@ -2,7 +2,7 @@
 layout: page
 title: Circuit-Targeted Bipolar 
 description: Left-Dorsolateral Prefrontal Cortex (DLPFC) - Subgenual anterior Cingulate Cortex (SGC) circuit as a treatment resistant depression response marker in transcranial magnetic stimulation treatment  
-img: assets/img/DE-field.png
+img: assets/img/E-field.png
 importance: 1
 category: Research
 related_publications: appelbaum_accelerated_2025
