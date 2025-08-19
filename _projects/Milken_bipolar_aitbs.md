@@ -19,8 +19,8 @@ This trial builds on prior evidence for accelerated TMS in unipolar depression (
 
 Surface rendering of a participant's cortical E-field distribution during aiTBS, optimized via the TAP algorithm ([Dannhauer et al., 2022](https://iopscience.iop.org/article/10.1088/1741-2552/ac63a4)). Warmer colors indicate higher E-field strength (V/m), focused at the personalized DLPFC target. This modeling ensured precise dosing at 90% resting motor threshold, accounting for individual head anatomy.
 
-{% include figure.liquid path="assets/img/E-field.png" class="img-fluid rounded" width="85%" caption="Figure 2: Exemplary Individualized Electric Field (E-Field) Modeling over Left-DLPFC functionaly anti-correlated cluster (red-hot for high E-field). optimization developed by [Dannhauer et al., 2022](https://iopscience.iop.org/article/10.1088/1741-2552/ac63a4)" %}
+{% include figure.liquid path="assets/img/E-field.png" class="img-fluid rounded" width="85%" caption="Figure 2: Exemplary Individualized Electric Field (E-Field) Modeling over Left-DLPFC functionaly anti-correlated cluster (red-hot for high E-field). optimization developed by" %}
 
 Sagittal and axial fMRI views showing a participant's personalized DLPFC target (red crosshair), selected for maximal anti-correlation with the subgenual cingulate cortex (blue seed region) using the [Cash et al. (2021)](https://doi.org/10.1002/hbm.25330) algorithm. This connectivity-based approach ensures stimulation engages depression-relevant circuits.
 
-{% include figure.liquid path="assets/img/cash_fmri_target_defaced.png" class="img-fluid rounded" width="85%" caption="Figure 3: Exemplary Brain fMRI Target: Left-DLPFC functionaly anti-correlated cluster with the SGC as target for TMS coil position in aiTBS protocol per [Cash et al. (2021)](https://doi.org/10.1002/hbm.25330) computation" %}
+{% include figure.liquid path="assets/img/cash_fmri_target_defaced.png" class="img-fluid rounded" width="85%" caption="Figure 3: Exemplary Brain fMRI Target: Left-DLPFC functionaly anti-correlated cluster with the SGC as target for TMS coil position in aiTBS protocol" %}
