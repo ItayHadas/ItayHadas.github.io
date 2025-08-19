@@ -49,9 +49,9 @@ ninja.data = [{
           description: "Left-Dorsolateral Prefrontal Cortex (DLPFC) - Subgenual anterior Cingulate Cortex (SGC) circuit as a treatment resistant depression response marker in transcranial magnetic stimulation treatment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/L-DLPFC%20-%20SGC/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-circuit-targeted-tms-for-bipolar",
+          title: 'Circuit-Targeted TMS for Bipolar',
+          description: "Accelerated Intermittent Theta-Burst Stimulation (aiTBS) for Bipolar Depression - A Personalized Brain Circuit-Targeted Intervention",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Milken_bipolar_aitbs/";
             },},{id: "projects-ph-d-work-attention-deficit",
@@ -59,9 +59,9 @@ ninja.data = [{
           description: "Attention Deficit Neurobiology and Digital Media Influences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Smart/";
-            },},{id: "projects-the-projects-page-is-work-in-progress",
-          title: 'The Projects Page is Work in Progress',
-          description: "The Projects Page is Work in Progress",
+            },},{id: "projects-the-projects-page-is-a-work-in-progress",
+          title: 'The Projects Page is a Work in Progress',
+          description: "The Projects Page is a Work in Progress",
           section: "Projects",handler: () => {
               window.location.href = "/projects/inprogress/";
             },},{id: "projects-oscilatory-and-aperiodic-markers",
