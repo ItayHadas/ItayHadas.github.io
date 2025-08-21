@@ -44,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "projects-facial-expression-and-eeg-markers-for-suicidality",
-          title: 'Facial Expression and EEG markers for suicidality',
+        },{id: "projects-facial-expression-and-event-related-potential-in-suicidality",
+          title: 'Facial Expression and Event Related Potential in suicidality',
           description: "Facial Action Units and EEG response to suicidality realted words in behavioral task",
           section: "Projects",handler: () => {
               window.location.href = "/projects/FAU_deliberate/";
