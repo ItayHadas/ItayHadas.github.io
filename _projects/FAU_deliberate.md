@@ -14,7 +14,7 @@ toc: true
 ### Suicidal participants Facial Action Units (FAU) In response to suicidality associated words (Life/Death)
 
 
-{% include video.liquid path="assets/video/Deliberate FAU.mp4" caption="Facial Landmarks tracking"" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+{% include video.liquid path="assets/video/Deliberate FAU.mp4" caption="Facial Landmarks tracking" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 
 {% include figure.liquid path="assets/img/deliberate freud LIFE FAU timelock.png" class="img-fluid rounded" width="85%" caption="Facial action units response time-locked to words associated with 'Life'" %}
 
