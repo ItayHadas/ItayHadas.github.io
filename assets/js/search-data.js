@@ -44,7 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "projects-l-dlpfc-sgc-marker-of-depression",
+        },{id: "projects-facial-expression-and-eeg-markers-for-suicidality",
+          title: 'Facial Expression and EEG markers for suicidality',
+          description: "Facial Action Units and EEG response to suicidality realted words in behavioral task",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FAU_deliberate/";
+            },},{id: "projects-l-dlpfc-sgc-marker-of-depression",
           title: 'L-DLPFC - SGC Marker of Depression',
           description: "Left-Dorsolateral Prefrontal Cortex (DLPFC) - Subgenual anterior Cingulate Cortex (SGC) circuit as a treatment resistant depression response marker in transcranial magnetic stimulation treatment",
           section: "Projects",handler: () => {
