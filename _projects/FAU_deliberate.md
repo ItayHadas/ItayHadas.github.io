@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Facial Expression and Event Related Potential in suicidality
+title: Facial Expression and EEG markers for suicidality
 description: Facial Action Units and EEG response to suicidality realted words in behavioral task 
 img: assets/img/FAU suicidality.png
 importance: 2
