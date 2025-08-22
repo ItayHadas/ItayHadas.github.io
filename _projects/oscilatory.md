@@ -9,4 +9,9 @@ related_publications: hill_characterizing_2021, smith_magnetic_2023-1
 toc: true
 ---
 
-# 
+# in progress
+
+
+{% cite hill_characterizing_2021 %}
+
+{% cite smith_magnetic_2023-1 %}
