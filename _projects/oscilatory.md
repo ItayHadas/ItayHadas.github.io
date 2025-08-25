@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Oscilatory and Aperiodic Markers
-description: Oscilatory and aperiodic markers of neuromodulatory treatment for depression
+description: Oscilatory and Aperiodic Markers of Convulsive Therapies in Depression
 img: assets/img/specparams.png
-importance: 3
+importance: 2
 category: Research
 related_publications: hill_modulation_2020, hill_resting-state_2020, hill_characterizing_2021, smith_magnetic_2023-1 
 toc: true
