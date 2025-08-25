@@ -71,7 +71,7 @@ ninja.data = [{
               window.location.href = "/projects/inprogress/";
             },},{id: "projects-oscilatory-and-aperiodic-markers",
           title: 'Oscilatory and Aperiodic Markers',
-          description: "Oscilatory and aperiodic markers of neuromodulatory treatment for depression",
+          description: "Oscilatory and Aperiodic Markers of Convulsive Therapies in Depression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oscilatory/";
             },},{
