@@ -9,6 +9,8 @@ related_publications: hadas_association_2019, hadas_hyperactivation_2019, hadas_
 toc: true
 ---
 
+### in progress
+
 ### Neurophysiological Biomarkers for Neuromodulation in Treatment-Resistant Depression
 As a neuroscientist driven by the challenge of unraveling depression's neural circuits, my work has centered on developing circuit-specific biomarkers using transcranial magnetic stimulation combined with electroencephalography (TMS-EEG) to guide and optimize neuromodulation therapies for treatment-resistant depression (TRD). This aligns seamlessly with my research interests in mechanistic neurophysiological markers and targeted interventions. From my postdoctoral at the Centre for Addiction and Mental Health (CAMH) to my role at UC San Diego, where I helped establish the Interventional Psychiatry Program, I have led and contributed to studies validating subgenual cingulate cortex (SGC) hyperactivity and dorsolateral prefrontal cortex (DLPFC)-SGC effective connectivity as pivotal features of TRD. These biomarkers not only illuminate depression's pathophysiology but also inform personalized treatments with repetitive TMS (rTMS). Looking ahead, I envision extending this to accelerated intermittent theta-burst stimulation (aiTBS) protocols, integrating multimodal data for targeting, to advance clinical outcomes.
 A cornerstone of my research is the theoretical anticorrelation between the left DLPFC and SGC, where rTMS treaatment directed to the DLPFC may modulate SGC activity transsynaptically, normalizing hyperactivity linked to depressive symptoms.

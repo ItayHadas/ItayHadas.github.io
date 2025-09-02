@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ph.D work - Attention Deficit
+title: Ph.D work - Attention Deficit and smartphone use
 description: Attention Deficit Neurobiology and Digital Media Influences
 img: assets/img/smartphone_proj.png
 importance: 3
