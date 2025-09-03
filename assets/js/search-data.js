@@ -64,11 +64,11 @@ ninja.data = [{
           description: "Attention Deficit Neurobiology and Digital Media Influences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Smart/";
-            },},{id: "projects-the-projects-page-is-a-work-in-progress",
-          title: 'The Projects Page is a Work in Progress',
-          description: "The Projects Page is a Work in Progress",
+            },},{id: "projects-tms-eeg-cortical-activation",
+          title: 'TMS-EEG Cortical Activation',
+          description: "Advancing TMS-EEG Methodologies for Probing Prefrontal Cortical Excitability and Inhibition",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/inprogress/";
+              window.location.href = "/projects/TMSEEG_method/";
             },},{id: "projects-oscilatory-and-aperiodic-markers",
           title: 'Oscilatory and Aperiodic Markers',
           description: "Oscilatory and Aperiodic Markers of Convulsive Therapies in Depression",
