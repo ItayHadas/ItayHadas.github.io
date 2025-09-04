@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TMS-EEG Cortical Activation
+title: TMS-EEG Methodological advancement
 description: Advancing TMS-EEG Methodologies for Probing Prefrontal Cortical Excitability and Inhibition
 img: assets/img/TMS-EEG_system.png
 importance: 3

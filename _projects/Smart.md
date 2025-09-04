@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ph.D work - Attention Deficit and smartphone use
+title: Attention Deficit Neurophysiology and Smartphone Use
 description: Attention Deficit Neurobiology and Digital Media Influences
 img: assets/img/smartphone_proj.png
 importance: 3
@@ -14,7 +14,7 @@ toc: true
 As a researcher intrigued by attentional disorders in modern contexts, I've unified studies on ADHD pathophysiology with explorations of digital media's role in fostering similar traits. Starting with core ADHD neural markers, I extended to causal effects of smartphones and a rat model of overstimulation.
 
 
-# Core ADHD Pathophysiology: TMS-EEG in Patients vs. Controls
+# Core ADHD Pathophysiology: TMS-EEG and Neurocognition in Participants vs. Controls
 
 My foundational work examined right prefrontal cortex (rPFC) activity in ADHD. In this study, we compared 57 adults with ADHD to 54 matched controls using TMS-EEG over the rPFC and during a Stop Signal task {% cite hadas_right_2021 %}.
 ADHD participants showed reduced early TMS-evoked potentials (LMFP around P30, 25-45 ms post-TMS), correlating with symptom severity on the Conners' Adult ADHD Rating Scale (CAARS) (rho = -0.37, p < 0.001).
