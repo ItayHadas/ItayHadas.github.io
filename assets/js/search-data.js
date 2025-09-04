@@ -59,13 +59,13 @@ ninja.data = [{
           description: "Accelerated Intermittent Theta-Burst Stimulation (aiTBS) for Bipolar Depression - A Personalized Brain Circuit-Targeted Intervention",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Milken_bipolar_aitbs/";
-            },},{id: "projects-ph-d-work-attention-deficit-and-smartphone-use",
-          title: 'Ph.D work - Attention Deficit and smartphone use',
+            },},{id: "projects-attention-deficit-neurophysiology-and-smartphone-use",
+          title: 'Attention Deficit Neurophysiology and Smartphone Use',
           description: "Attention Deficit Neurobiology and Digital Media Influences",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Smart/";
-            },},{id: "projects-tms-eeg-cortical-activation",
-          title: 'TMS-EEG Cortical Activation',
+            },},{id: "projects-tms-eeg-methodological-advancement",
+          title: 'TMS-EEG Methodological advancement',
           description: "Advancing TMS-EEG Methodologies for Probing Prefrontal Cortical Excitability and Inhibition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/TMSEEG_method/";
