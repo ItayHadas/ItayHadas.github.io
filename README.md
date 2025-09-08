@@ -1,6 +1,5 @@
 # Itay Hadas Professional Website - based on al-folio
 
-<div align="center">
 
 ## License
 
