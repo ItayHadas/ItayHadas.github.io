@@ -53,7 +53,7 @@ ninja.data = [{
           title: 'L-DLPFC - SGC Marker of Depression',
           description: "Left-Dorsolateral Prefrontal Cortex (DLPFC) - Subgenual anterior Cingulate Cortex (SGC) circuit as a treatment resistant depression response marker in transcranial magnetic stimulation treatment",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/L-DLPFC%20-%20SGC/";
+              window.location.href = "/projects/L-DLPFC-SGC/";
             },},{id: "projects-circuit-targeted-tms-for-bipolar",
           title: 'Circuit-Targeted TMS for Bipolar',
           description: "Accelerated Intermittent Theta-Burst Stimulation (aiTBS) for Bipolar Depression - A Personalized Brain Circuit-Targeted Intervention",
