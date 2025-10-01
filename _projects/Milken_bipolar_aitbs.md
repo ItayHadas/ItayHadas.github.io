@@ -20,7 +20,7 @@ This trial builds on prior evidence for accelerated TMS in unipolar depression (
 
 {% include figure.liquid path="assets/img/bipolar_milken_Demographic_results.png" class="img-fluid rounded" width="85%" caption="Demographics, Concomitant pharmacology, aiTBS protocol details, Pre-Post Depression scores" %}
 
-{% include figure.liquid path="assets/img/bipolar_milken_trial_course_madrs_total_mentorrater.png" class="img-fluid rounded" width="85%" caption="Figure 1: mean MADRS scores (±SD) for active (blue) and sham (red) over the course of the trial for Sham and Active group. purple shows the MADRS scores on follow-up" %}
+{% include figure.liquid path="assets/img/bipolar_trial_course_madrs_total_mentorrater_1.png" class="img-fluid rounded" width="85%" caption="Figure 1: mean MADRS scores (±SD) for active (red) and sham (blue) over the course of the trial for Sham and Active group. purple shows the MADRS scores on follow-up" %}
 
 Cortical surface rendering of a participant's cortical E-field distribution during aiTBS, optimized via the TAP algorithm ([Dannhauer et al., 2022](https://iopscience.iop.org/article/10.1088/1741-2552/ac63a4)). Warmer colors indicate higher E-field strength (V/m), focused at the personalized DLPFC target. This modeling ensured a more precise dosing at 90% resting motor threshold, accounting for individual head anatomy.
 
