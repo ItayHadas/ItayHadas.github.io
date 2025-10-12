@@ -18,7 +18,6 @@ This trial builds on prior evidence for accelerated TMS in unipolar depression (
 
 {% include figure.liquid path="assets/img/bipolar_milken_Demographic_results.png" class="img-fluid rounded" width="100%" caption="Demographics, Concomitant pharmacology, aiTBS protocol details, Pre-Post Depression scores" %}
 
-
 {% include figure.liquid path="assets/img/Bipolar_Timeline.png" class="img-fluid rounded" width="100%" caption="Study visits timeline" %}
 {% include figure.liquid path="assets/img/bipolar_trial_course_madrs_total_mentorrater_1.png" class="img-fluid rounded" width="100%" caption="Figure 1: mean MADRS scores (±SD) for active (red) and sham (blue) over the course of the trial for Sham and Active group. purple shows the MADRS scores on follow-up" %}
 
