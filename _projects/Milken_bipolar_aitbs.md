@@ -21,6 +21,8 @@ This trial builds on prior evidence for accelerated TMS in unipolar depression (
 {% include figure.liquid path="assets/img/Bipolar_Timeline.png" class="img-fluid rounded" width="100%" caption="Study visits timeline" %}
 {% include figure.liquid path="assets/img/bipolar_trial_course_madrs_total_mentorrater_1.png" class="img-fluid rounded" width="100%" caption="Figure 1: mean MADRS scores (±SD) for active (red) and sham (blue) over the course of the trial for Sham and Active group. purple shows the MADRS scores on follow-up" %}
 
+{% include my_component.html path="assets/html/table_within.html" %}
+
 Cortical surface rendering of a participant's cortical E-field distribution during aiTBS, optimized via the TAP algorithm ([Dannhauer et al., 2022](https://iopscience.iop.org/article/10.1088/1741-2552/ac63a4)). Warmer colors indicate higher E-field strength (V/m), focused at the personalized DLPFC target. This modeling ensured a more precise dosing at 90% resting motor threshold, accounting for individual head anatomy.
 
 {% include figure.liquid path="assets/img/E-field.png" class="img-fluid rounded" width="45%" caption="Figure 2: Exemplary Individualized Electric Field (E-Field) Modeling over Left-DLPFC functionaly anti-correlated cluster (red-hot for high E-field). optimization developed by" %}
@@ -28,6 +30,7 @@ Cortical surface rendering of a participant's cortical E-field distribution duri
 Exemplary aparticipant 3D MRI view showing the computed personalized DLPFC target, selected for maximal anti-correlation with the subgenual cingulate cortex using the [Cash et al. (2021)](https://doi.org/10.1002/hbm.25330) algorithm. This connectivity-based approach ensures stimulation engages depression-relevant circuits.
 
 {% include figure.liquid path="assets/img/cash_fmri_target_defaced.png" class="img-fluid rounded" width="45%" caption="Figure 3: Exemplary Brain fMRI Target: Left-DLPFC functionaly anti-correlated cluster (red blot) with the SGC as target for TMS coil position in aiTBS protocol" %}
+
 
 
 Supported by:
