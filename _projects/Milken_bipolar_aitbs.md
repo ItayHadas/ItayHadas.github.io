@@ -16,12 +16,16 @@ To ensure individualized targeting, we combined functional magnetic resonance im
 In this randomized, double-blind, sham-controlled trial ([NCT05393648](https://clinicaltrials.gov/study/NCT05393648)), 13 participants with treatment-resistant bipolar depression received either active aiTBS (n=5) or sham stimulation (n=8). Stimulation was delivered in 10 hourly sessions per day for five days, neuronavigated to the personalized targets. The primary outcome was change in Montgomery-Åsberg Depression Rating Scale (MADRS) scores from baseline to one-week follow-up. While between-group differences did not reach statistical significance due to the small sample size, active aiTBS produced substantial within-group improvements: MADRS scores decreased by 56.8% at one week and 55.2% at four weeks (p < 0.01), with 60% of active participants achieving response (≥50% reduction). Sham effects were minimal (12.2% and 20.0% reductions, respectively). No manic switches occurred, supporting aiTBS safety in bipolar populations {% cite appelbaum_accelerated_2025 %}.
 This trial builds on prior evidence for accelerated TMS in unipolar depression (e.g., [Cole et al., 2020](https://doi.org/10.1176/appi.ajp.2019.19070720)) and aligns with my broader goal of translating circuit-level biomarkers into clinically viable tools for precision psychiatry. By validating aiTBS in bipolar depression and demonstrating the feasibility of advanced targeting, this work paves the way for larger trials and multimodal biomarkers integrating TMS-EEG, fMRI, and behavioral metrics—areas I plan to expand in future research to predict and enhance treatment response in mood disorders.
 
-{% include figure.liquid path="assets/img/bipolar_milken_Demographic_results.png" class="img-fluid rounded" width="100%" caption="Demographics, Concomitant pharmacology, aiTBS protocol details, Pre-Post Depression scores" %}
+{% include figure.liquid path="assets/img/bipolar_demographics.png" class="img-fluid rounded" width="100%" caption="Bipolar Disorder Patient Demographics an Clinical Characterictics" %}
 
 {% include figure.liquid path="assets/img/Bipolar_Timeline.png" class="img-fluid rounded" width="100%" caption="Study visits timeline" %}
 {% include figure.liquid path="assets/img/bipolar_trial_course_madrs_total_mentorrater_1.png" class="img-fluid rounded" width="100%" caption="Figure 1: mean MADRS scores (±SD) for active (red) and sham (blue) over the course of the trial for Sham and Active group. purple shows the MADRS scores on follow-up" %}
 
-{% include my_component.html path="assets/html/table_within.html" %}
+{% include figure.liquid path="assets/img/table_within.png" class="img-fluid rounded" width="100%" caption="Linear Mixed-Effects Analysis: Within Group MADRS Scores pre, 1 week post, and 4 weeks post treatment" %}
+
+{% include figure.liquid path="assets/img/table_between.png" class="img-fluid rounded" width="100%" caption="Linear Mixed-Effects Analysis: Sham-Active MARDS scores difference" %}
+
+{% include figure.liquid path="assets/img/table_responders.png" class="img-fluid rounded" width="100%" caption="Study Remitters and Responders" %}
 
 Cortical surface rendering of a participant's cortical E-field distribution during aiTBS, optimized via the TAP algorithm ([Dannhauer et al., 2022](https://iopscience.iop.org/article/10.1088/1741-2552/ac63a4)). Warmer colors indicate higher E-field strength (V/m), focused at the personalized DLPFC target. This modeling ensured a more precise dosing at 90% resting motor threshold, accounting for individual head anatomy.
 
