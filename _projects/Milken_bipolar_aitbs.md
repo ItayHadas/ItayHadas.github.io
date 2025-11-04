@@ -36,6 +36,8 @@ Exemplary aparticipant 3D MRI view showing the computed personalized DLPFC targe
 {% include figure.liquid path="assets/img/cash_fmri_target_defaced.png" class="img-fluid rounded" width="45%" caption="Figure 3: Exemplary Brain fMRI Target: Left-DLPFC functionaly anti-correlated cluster (red blot) with the SGC as target for TMS coil position in aiTBS protocol" %}
 
 
+Github repostory for clinical figures, tables and statistics : [UCSD-IPP/Bipolar_milken_analysis](https://github.com/UCSD-IPP/Bipolar_milken_analysis)
+
 
 Supported by:
 [Baszucki Brain Research Fund Grant Awardees 2022](https://milkeninstitute.org/sites/default/files/2022-01/2022%20Baszucki%20Brain%20Research%20Fund%20Grant%20Awardees.pdf)
